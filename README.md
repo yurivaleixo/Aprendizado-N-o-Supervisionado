@@ -10,4 +10,4 @@ Link Dicionário DataSet: https://www.kaggle.com/datasets/blurredmachine/fifa-20
 
 Link DataSet: https://www.kaggle.com/datasets/blurredmachine/fifa-2019-world-cup-dataset/download?datasetVersionNumber=1
 
-Link Drive: https://drive.google.com/drive/u/0/folders/1P1c_evP_StNl59U9oXLP7RWMTxUURoyX
+
